@@ -3,7 +3,6 @@
 ## Doctoral thesis - 2023-10-31
 - [Thesis PDF](https://tinyurl.com/DanielPhdThesis)
 - [Thesis slides](https://docs.google.com/presentation/d/1_HsAaojIZf_qdooyyZCic_g-9WuVIMNayu9rF0TO2IA/edit?usp=sharing)
-- 
 ## CFEAR Radar Odometry
 - [Project overview](https://github.com/dan11003/CFEAR_Radarodometry)
 - [Code repository](https://github.com/dan11003/CFEAR_Radarodometry_code_public)
@@ -26,4 +25,3 @@
 - [Radar to rosbag - based on Oxford radar Robotcar SDK](https://github.com/dan11003/oxford_radar_converter)
 - [Radar to rosbag - based on PyBoreas SDK](https://github.com/dan11003/pyboreas)
 - [Radar to rosbag - based on MulRan file player](https://github.com/irapkaist/file_player_mulran)
-- 
