@@ -4,6 +4,8 @@
 - [Thesis PDF](https://tinyurl.com/DanielPhdThesis)
 - [Thesis slides](https://docs.google.com/presentation/d/1_HsAaojIZf_qdooyyZCic_g-9WuVIMNayu9rF0TO2IA/edit?usp=sharing)
 ## CFEAR Radar Odometry
+<img src="CFEAR.png" alt="CFEAR Radar Odometry" width="500" height="300">
+
 - [Project overview](https://github.com/dan11003/CFEAR_Radarodometry)
 - [Code repository](https://github.com/dan11003/CFEAR_Radarodometry_code_public)
 - [Journal article](https://arxiv.org/abs/2211.02445)
