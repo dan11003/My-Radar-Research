@@ -18,6 +18,5 @@
 - [Code repository](https://github.com/dan11003/tbv_slam_public)
 - [Presentation video](https://www.youtube.com/watch?v=3n-40a-WZ8A)
 - [Experiments presentation video](https://www.youtube.com/watch?v=t8HQtHAUHHc&t=4s)
-- 
 ## CorAl Introspection
 - [Journal article](https://www.sciencedirect.com/science/article/pii/S0921889022000768)
