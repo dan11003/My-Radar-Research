@@ -6,6 +6,7 @@
 ## CFEAR Radar Odometry
 <img src="CFEAR.png" alt="CFEAR Radar Odometry" width="500" height="300">
 
+- EDIT APRIL 2024: [Boreas experiments](https://github.com/dan11003/cfear_2024_workshop)
 - [Project overview](https://github.com/dan11003/CFEAR_Radarodometry)
 - [Code repository](https://github.com/dan11003/CFEAR_Radarodometry_code_public)
 - [Journal article](https://arxiv.org/abs/2211.02445)
